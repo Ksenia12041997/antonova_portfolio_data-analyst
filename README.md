@@ -16,4 +16,4 @@
 | [Исследование оттока и удержания клиентов фитнес-центра](Research-of-outflow-and-retention-of-fitness-center-customers) | Анализ данных по оттоку среди клиентов сети фитнес-центров и разработка рекомендаций по удержанию.| *pandas*, *matplotlib*, *seaborn*, *numpy*, *plotly*, *phik*|
 | [Исследование данных и показателей приложения Procrastinate Pro+](Research-of-the-Procrastinate-Pro+-application) | Анализ данных по расходам на рекламу приложения и формирование рекомендаций по повышению окупаемости.| *pandas*, *matplotlib*, *numpy*|
 | [SQL. Анализ базы данных сервиса для чтения книг по подписке](Research-of-the-database-of-the-service-for-reading) | Анализ базы данных и формирование ценностного предложения для нового продукта.| *SQLAlchemy*|
-| [SQL. Анализ БД StackOverflow](SQL. StackOverflow Database Analysis) | Изучение базы данных и выявление интересных особенностей в поведении пользователей на платформе.| *SQLAlchemy*|
+| [SQL. Анализ БД StackOverflow]| Изучение базы данных и выявление интересных особенностей в поведении пользователей на платформе.| *SQLAlchemy*|
